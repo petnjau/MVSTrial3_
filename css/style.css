@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+
+#header {
+    display: flex;
+  }
+#nav-bar{
+    position: fixed;
+}
+
+
+@media screen and (max-width: 600px){
+
+}
+
